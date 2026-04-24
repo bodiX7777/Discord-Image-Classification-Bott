@@ -1,0 +1,10 @@
+0 Ping-pong_ball
+1 Football_ball
+2 Basketball_ball
+3 Rugby_ball
+4 Tennis_ball
+5 Volleyball_ball
+6 Baseball_ball
+7 Golf_ball
+8 Bowling_ball
+9 Pool_ball
